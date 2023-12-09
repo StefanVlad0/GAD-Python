@@ -22,3 +22,20 @@ Code from Google Python Workshop "Google Atelierul Digital - Programare"
 - Lists, Tuples
 - Dictionaries, Sets
 - Homework ([session2.py](session2.py))
+
+### Session 3
+- Conditional programming
+- Repetitive structures
+- Functions
+- Exception handling
+- Namespaces
+- Modules and Packages
+- Homework ([session3.py](session3.py))
+
+### Session 4
+- What is OOP?
+- Classes and Objects
+- Getters, Setters
+- Encapsulation
+- Inheritance
+- Homework ([session4.py](session4.py))
