@@ -34,8 +34,46 @@ Code from Google Python Workshop "Google Atelierul Digital - Programare"
 
 ### Session 4
 - What is OOP?
-- Classes and Objects
 - Getters, Setters
 - Encapsulation
 - Inheritance
 - Homework ([session4.py](session4.py))
+
+### Session 5
+- Object Oriented Programming Part 2
+- Classes and Objects
+- Iterators
+
+### Session 6
+- Memory savers
+- Lambda functions
+- Map, filter, zip
+- List comprehension
+- Pip & virtual environment
+- Web scraping
+
+### Session 7 & 8
+- MySQL
+- ERD diagrams
+- SQLAlchemy & Alembic
+- Tkinter
+
+### Session 9
+- Django Framework
+- ORM
+- Fixtures
+- Views 
+- Templates
+
+### Session 10
+- Static files
+- Relationships between models
+- Django admin
+- Permissions
+- Django commands
+
+### Session 11 & 12
+- Decorators
+- Software testing
+- Unit testing
+- Pytest
